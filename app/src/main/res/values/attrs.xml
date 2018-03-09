@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundRectButton" parent="AppTheme.Button">
+        <attr name="border_color" format="color" />
+        <attr name="border_width" format="dimension" />
+        <attr name="corner_radius" format="float" />
+        <attr name="disable_background" format="reference" />
+        <attr name="btn_text_color" format="reference" />
+        <attr name="btn_text_size" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="CircleView">
+        <attr name="color" format="color" />
+    </declare-styleable>
+
+    <attr name="canScroll" format="boolean" />
+    <declare-styleable name="CustomViewPager">
+        <attr name="canScroll" />
+    </declare-styleable>
+
+    <declare-styleable name="CustomScrollView">
+        <attr name="canScrollFromNest" format="boolean" />
+    </declare-styleable>
+</resources>

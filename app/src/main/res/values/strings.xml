@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Soap API</string>
+
+    <!-- Image content description -->
+    <string name="content_description" />
+
+    <!-- Network connection -->
+    <string name="no_network_connection">No network connection!</string>
+    <!-- End of network connection -->
+
+    <!-- Home screen -->
+    <string name="home_screen_title">Home</string>
+    <string name="home_screen_sales">Sales</string>
+    <string name="home_screen_void">Void</string>
+    <string name="home_screen_refund">Refund</string>
+    <string name="home_screen_history">History</string>
+    <string name="home_screen_summary_report">Summary Report</string>
+    <string name="home_menu_sales_number">1</string>
+    <string name="home_menu_void_number">2</string>
+    <string name="home_menu_refund_number">3</string>
+    <string name="home_menu_history_number">4</string>
+    <string name="home_menu_summary_report">5</string>
+    <!-- End of home screen -->
+
+    <!-- Sales screen -->
+    <string name="sales_screen_title">SALES</string>
+    <string name="sales_screen_enter_amount">Enter Amount</string>
+    <string name="sales_screen_enter_amount_hint">0.00</string>
+    <string name="sales_screen_usd">USD</string>
+    <string name="sales_screen_generate_qr">Generate QR</string>
+    <string name="zero_dot_zero">0.00</string>
+    <!-- End of sales screen -->
+</resources>

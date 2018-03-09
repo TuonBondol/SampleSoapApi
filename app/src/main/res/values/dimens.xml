@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Default dimen -->
+    <dimen name="dimen_0dp">0dp</dimen>
+    <dimen name="dimen_0_5dp">0.5dp</dimen>
+    <dimen name="dimen_1dp">1dp</dimen>
+    <dimen name="dimen_1_5dp">1.5dp</dimen>
+    <dimen name="dimen_2dp">2dp</dimen>
+    <dimen name="dimen_3dp">3dp</dimen>
+    <dimen name="dimen_4dp">4dp</dimen>
+    <dimen name="dimen_5dp">5dp</dimen>
+    <dimen name="dimen_6dp">6dp</dimen>
+    <dimen name="dimen_7dp">7dp</dimen>
+    <dimen name="dimen_8dp">8dp</dimen>
+    <dimen name="dimen_9dp">9dp</dimen>
+    <dimen name="dimen_10dp">10dp</dimen>
+    <dimen name="dimen_11dp">11dp</dimen>
+    <dimen name="dimen_12dp">12dp</dimen>
+    <dimen name="dimen_13dp">13dp</dimen>
+    <dimen name="dimen_14dp">14dp</dimen>
+    <dimen name="dimen_15dp">15dp</dimen>
+    <dimen name="dimen_16dp">16dp</dimen>
+    <dimen name="dimen_17dp">17dp</dimen>
+    <dimen name="dimen_18dp">18dp</dimen>
+    <dimen name="dimen_19dp">19dp</dimen>
+    <dimen name="dimen_20dp">20dp</dimen>
+    <dimen name="dimen_21dp">21dp</dimen>
+    <dimen name="dimen_22dp">22dp</dimen>
+    <dimen name="dimen_24dp">24dp</dimen>
+    <dimen name="dimen_28dp">28dp</dimen>
+    <dimen name="dimen_30dp">30dp</dimen>
+    <dimen name="dimen_32dp">32dp</dimen>
+    <dimen name="dimen_35dp">35dp</dimen>
+    <dimen name="dimen_40dp">40dp</dimen>
+    <dimen name="dimen_42dp">42dp</dimen>
+    <dimen name="dimen_45dp">45dp</dimen>
+    <dimen name="dimen_46dp">45dp</dimen>
+    <dimen name="dimen_50dp">50dp</dimen>
+    <dimen name="dimen_55dp">55dp</dimen>
+    <dimen name="dimen_60dp">60dp</dimen>
+    <dimen name="dimen_90dp">90dp</dimen>
+    <dimen name="dimen_95dp">95dp</dimen>
+    <dimen name="dimen_100dp">100dp</dimen>
+
+    <!-- Default text size -->
+    <dimen name="text_size_6sp">6sp</dimen>
+    <dimen name="text_size_7sp">7sp</dimen>
+    <dimen name="text_size_8sp">8sp</dimen>
+    <dimen name="text_size_9sp">9sp</dimen>
+    <dimen name="text_size_10sp">10sp</dimen>
+    <dimen name="text_size_11sp">11sp</dimen>
+    <dimen name="text_size_12sp">12sp</dimen>
+    <dimen name="text_size_13sp">13sp</dimen>
+    <dimen name="text_size_14sp">14sp</dimen>
+    <dimen name="text_size_15sp">15sp</dimen>
+    <dimen name="text_size_16sp">16sp</dimen>
+    <dimen name="text_size_17sp">17sp</dimen>
+    <dimen name="text_size_18sp">18sp</dimen>
+    <dimen name="text_size_19sp">19sp</dimen>
+    <dimen name="text_size_20sp">20sp</dimen>
+    <dimen name="text_size_21sp">21sp</dimen>
+    <dimen name="text_size_22sp">22sp</dimen>
+    <dimen name="text_size_24sp">24sp</dimen>
+    <dimen name="text_size_30sp">30sp</dimen>
+    <dimen name="text_size_35sp">35sp</dimen>
+    <dimen name="text_size_40sp">40sp</dimen>
+
+    <!-- Splash Screen -->
+    <dimen name="splash_screen_image_launcher_size">200dp</dimen>
+    <dimen name="keyboard_width">240dp</dimen>
+    <dimen name="keyboard_height">290dp</dimen>
+    <dimen name="keyboard_item_height">80dp</dimen>
+    <dimen name="keyboard_item_padding">10dp</dimen>
+    <dimen name="key_round_radius">30dp</dimen>
+    <dimen name="key_text_size">24sp</dimen>
+    <dimen name="radio_width">180dp</dimen>
+    <!-- End of Splash Screen -->
+
+    <!-- Login Screen -->
+    <dimen name="login_edit_text_height">45dp</dimen>
+    <!-- End of Login Screen -->
+
+    <!-- Home screen -->
+    <dimen name="home_screen_icon_width_height">80dp</dimen>
+    <!-- End of home screen -->
+
+    <!-- Container -->
+    <dimen name="tab_icon_width_height">24dp</dimen>
+    <dimen name="tab_title_text_size">12sp</dimen>
+    <integer name="tab_icon_search_stroke">4</integer>
+    <integer name="tab_icon_stroke_size">2</integer>
+    <dimen name="home_tab_height">54dp</dimen>
+
+    <!--btn small size-->
+    <dimen name="btn_height_sm">35dp</dimen>
+    <dimen name="btn_width_sm">80dp</dimen>
+    <!--success or failed logo-->
+    <dimen name="trans_logo_size">110dp</dimen>
+    <dimen name="about_app_logo">70dp</dimen>
+
+    <!-- History screen -->
+    <dimen name="filter_edit_text_height">40dp</dimen>
+
+</resources>
